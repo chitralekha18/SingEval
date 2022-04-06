@@ -2,7 +2,7 @@
 Curated and human annotated (singing quality score) subset of DAMP singing vocals dataset
 
 ## Link to the dataset
-https://drive.google.com/file/d/1HKSsERe7HtMZFG0tqZNdNdZu7oz5n1iX/view?usp=sharing
+https://drive.google.com/file/d/1m-7s70AD_tRW6oEyMmFszCpzm6q0PpPu/view?usp=sharing
 
 Uncompressed Size: 4 GB
 

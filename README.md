@@ -2,7 +2,7 @@
 Curated and human annotated (singing quality score) subset of DAMP singing vocals dataset (no audio files)
 For obtaining the corresponding audio files, please visit https://ccrma.stanford.edu/damp/.
 
-## Link to the dataset
+## Link to the dataset of human annotations
 https://drive.google.com/file/d/1pDQrrWog3dJbl1olTImgdTw_flkWj6ST/view?usp=sharing
 
 ## Description
